@@ -1,0 +1,11 @@
+{
+  "name": "hashimage-react-node",
+  "version": "1.0.0",
+  "description": "create a image hashing with react on client side and node on server side and save in mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
